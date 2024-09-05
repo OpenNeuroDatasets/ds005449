@@ -19,7 +19,7 @@ forward the affective associations of the experience.
 # Task names:
 1: _pain_: Trials in which an aversive pressure stimulus was delivered.  
 2: _brush_: Trials in which an appetitive brush stimulus was delivered.  
-3: _NA_: Trials in which face stimuli were presented without stimuli to check extinction.  
+3: _NA_: Trials in which face stimuli were presented without stimuli to check conditioning and extinction.  
 
 The following trial types were not used in the analysis for the above paper:  
 4: _morph_: Trials in which a series of morphing face stimuli were presented.  
