@@ -1,0 +1,10 @@
+{
+    "block": {
+        "LongName": "Trial Block",
+        "Description": "Block of 50 faces shown over the course of 20 seconds."
+    },
+    "face_idx": {
+        "LongName": "Face index",
+        "Description": "Index of face shown in morph."
+    }
+}
