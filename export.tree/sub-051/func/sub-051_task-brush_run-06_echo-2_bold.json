@@ -1,0 +1,22 @@
+{
+    "Modality": "MR",
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "GE",
+    "ManufacturersModelName": "Discovery MR750",
+    "InstitutionName": "Cornell University",
+    "InstitutionalDepartmentName": "College of Human Ecology",
+    "BodyPartExamined": "BRAIN",
+    "PatientPosition": "HFS",
+    "MRAcquisitionType": "3D",
+    "SeriesDescription": "ME_EPI brush",
+    "ProtocolName": "ACL_SENSIGEN20160321",
+    "ScanningSequence": "GR",
+    "SequenceVariant": "MP",
+    "SpacingBetweenSlices": 1,
+    "EchoTime": 0.03,
+    "RepetitionTime": 2.000000,
+    "FlipAngle": 90,
+    "TaskName": "brush",
+    "CoilString": "MULTI COIL",
+    "EchoNumber": 2
+}
